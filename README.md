@@ -1,3 +1,4 @@
-# angular-ivy-4ypaft
+# High Stakes Bird Watching
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-4ypaft)
+Internally facing Web-app to facilitate high-stakes, team bird watching competition.   
+
